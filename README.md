@@ -14,12 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-<p>
 
+<p float="center">
 
-
-<img width="375" alt="audibutton" src="https://user-images.githubusercontent.com/116253924/215013335-d4882079-c5c1-41e1-94ff-0172222d6c6d.png" width="200px" height="200px">
-
+<img src="https://user-images.githubusercontent.com/116253924/215023595-780cdee3-2225-4a6c-8131-470032496698.png" width=22% height=35%>
 
 </p>
 
